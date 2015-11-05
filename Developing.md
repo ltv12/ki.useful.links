@@ -1,6 +1,7 @@
  
 ### Полезные сайты
 - **<a href="https://rsdn.ru/">RSDN</a>**
+- **<a href="http://design-pattern.ru/">Справочник Паттернов</a>**
 
 ### Радио IT 
 
