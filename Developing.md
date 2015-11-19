@@ -2,6 +2,7 @@
 ### Полезные сайты
 - **<a href="https://rsdn.ru/">RSDN</a>**
 - **<a href="http://design-pattern.ru/">Справочник Паттернов</a>**
+- **<a href="http://habrahabr.ru/company/luxoft/blog/270383/">Java 8 - Stream API (Шпаргалка)</a>**
 
 ### Радио IT 
 
@@ -14,3 +15,7 @@
 ### Английский 
 - **<a href="http://www.bbc.co.uk/learningenglish/">BBC - Learning English</a>**
 - **<a href="http://learnenglish.britishcouncil.org/en/magazine">British Concil</a>**
+
+ 
+### Java
+- **<a href="http://habrahabr.ru/company/luxoft/blog/270383/">Java 8 - Stream API (Шпаргалка)</a>**
