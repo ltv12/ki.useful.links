@@ -2,7 +2,6 @@
 ### Полезные сайты
 - **<a href="https://rsdn.ru/">RSDN</a>**
 - **<a href="http://design-pattern.ru/">Справочник Паттернов</a>**
-- **<a href="http://habrahabr.ru/company/luxoft/blog/270383/">Java 8 - Stream API (Шпаргалка)</a>**
 
 ### Радио IT 
 
