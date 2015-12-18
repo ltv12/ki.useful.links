@@ -19,3 +19,7 @@
 ### Java
 - **<a href="http://habrahabr.ru/company/luxoft/blog/270383/">Java 8 - Stream API (Шпаргалка)</a>**
 - **<a href="https://www.youtube.com/watch?v=ft0Nj8Cm9kk">Требования рынка Яков Файт</a>**
+
+### Linux
+- **<a href="http://www.k-max.name/linux/osnovnye-komandy-linux-ili-shpargalka-nachinayushhego-linuksojda/
+">Linux - шпаргалка</a>**
