@@ -24,3 +24,7 @@
 ### Linux
 - **<a href="http://www.k-max.name/linux/osnovnye-komandy-linux-ili-shpargalka-nachinayushhego-linuksojda/
 ">Linux - шпаргалка</a>**
+
+### Задание на алгоритмы
+- **<a href="https://www.topcoder.com">TopCoder</a>**
+- **<a href="http://codeforces.com">CodeForces</a>**
