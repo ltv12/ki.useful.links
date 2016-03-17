@@ -20,6 +20,8 @@
 - **<a href="http://habrahabr.ru/company/luxoft/blog/270383/">Java 8 - Stream API (Шпаргалка)</a>**
 - **<a href="https://www.youtube.com/watch?v=ft0Nj8Cm9kk">Требования рынка Яков Файт</a>**
 - **<a href="https:https://habrahabr.ru/company/luxoft/blog/272025/">Полезные ссылки по джава (разные области)</a>**
+- **<a href="https://habrahabr.ru/post/277669/">Справочник по синхронизаторам java.util.concurrent.*</a>**
+
 
 ### Linux
 - **<a href="http://www.k-max.name/linux/osnovnye-komandy-linux-ili-shpargalka-nachinayushhego-linuksojda/
