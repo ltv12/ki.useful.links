@@ -9,6 +9,7 @@
 - **<a href="http://www.radio-t.com/"> Радио-Т </a>**
 - **<a href="http://guzei.com/online_radio/listen.php?online_radio_id=16714"> IT FM </a>**
 - **<a href="http://www.uamedwed.com/servisy/interesnye-podkasty-dlya-it-specialista.htm"> Интересная подборка</a>**
+- **<a href="http://www.sw-engineering-candies.com/blog-1/comparison-of-ways-to-check-preconditions-in-java"> Проверка пред условий (Java, Apache, Guava, Spring-Assertion)</a>**
 
 
 ### Английский 
