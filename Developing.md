@@ -2,6 +2,7 @@
 ### Полезные сайты
 - **<a href="https://rsdn.ru/">RSDN</a>**
 - **<a href="http://design-pattern.ru/">Справочник Паттернов</a>**
+- **<a href="http://jeffhuang.com/best_paper_awards.html"> Лучшие исследования CS </a>**
 
 ### Радио IT 
 
