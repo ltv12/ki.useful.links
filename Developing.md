@@ -3,6 +3,7 @@
 - **<a href="https://rsdn.ru/">RSDN</a>**
 - **<a href="http://design-pattern.ru/">Справочник Паттернов</a>**
 - **<a href="http://jeffhuang.com/best_paper_awards.html"> Лучшие исследования CS </a>**
+- **<a href="http://habrahabr.ru/company/luxoft/blog/280784/"> Список инструментов и технологий </a>**
 
 ### Радио IT 
 
