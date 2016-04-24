@@ -33,7 +33,6 @@
 ### Задание на алгоритмы
 - **<a href="https://www.topcoder.com">TopCoder</a>**
 - **<a href="http://codeforces.com">CodeForces</a>**
-- 
 ### Git
 - **<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=workspace">Справочник в графическом виде</a>**
 - **<a href="http://codeforces.com">CodeForces</a>**
