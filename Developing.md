@@ -36,4 +36,4 @@
 
 ### Git
 - **<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=workspace">Справочник в графическом виде</a>**
-- **<a href="http://codeforces.com">CodeForces</a>**
+- **<a href="https://www.prolinux.org/post/korotkii-spravochnik-po-git-komandam/">Список основных команд (с пояснениями)</a>**
