@@ -10,3 +10,4 @@
 
 #### Страницы
 - **<a href="https://tproger.ru/problems/what-is-the-difference-between-threads-and-processes/">Поток и процесс</a>**
+- **<a href="https://habrahabr.ru/company/golovachcourses/blog/215275/"> Набор ссылок на разные курсы.</a>**
