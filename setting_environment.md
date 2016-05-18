@@ -1,7 +1,7 @@
  
 ### Linux
 - **<a href="http://stackoverflow.com/questions/32942023/ubuntu-openjdk-8-unable-to-locate-package">Установка Java</a>**
-- **<a href="">***</a>**
+- **<a href="https://community.skype.com/t5/Linux/Skype-group-chat-not-working-anymore/td-p/3987288">Для работы скайпа</a>**
 - **<a href="">***</a>**
 - **<a href="">***</a>**
 
