@@ -11,6 +11,7 @@
 #### Страницы
 - **<a href="https://tproger.ru/problems/what-is-the-difference-between-threads-and-processes/">Поток и процесс</a>**
 - **<a href="https://habrahabr.ru/post/260953/">10 Советов по многопоточности</a>**
+- **<a href="http://rus-linux.net/lib.php?name=/MyLDP/hard/memory/memory.html">То, что должен знать каждый разработик о пямяти</a>**
 
   - **<a href="https://habrahabr.ru/company/luxoft/blog/157273/">Обзор java.util.cuncurrent</a>**
   - **<a href="https://habrahabr.ru/post/277669/">Справочник по синхронизации (java.util.concurrent)</a>**
