@@ -14,6 +14,7 @@
   - **<a href="https://habrahabr.ru/post/277669/">Справочник по синхронизации (java.util.concurrent)</a>**
     - **<a href="https://habrahabr.ru/post/117185/">Phaser</a>**
     - **<a href="https://habrahabr.ru/post/187752/">false sharing в Java</a>**
+- **<a href="http://blog.takipi.com/5-things-you-didnt-know-about-synchronization-in-java-and-scala/"> 5 важных вещей о синхронизации </a>
 - **<a href="https://habrahabr.ru/company/golovachcourses/blog/215275/"> Набор ссылок на разные курсы.</a>**
 - **<a href="https://habrahabr.ru/post/133981/"> JMM. В кратце и примерах </a> **
 - **<a href="https://habrahabr.ru/company/golovachcourses/blog/221133/">JMM. JSR-133 FAQ </a> **
