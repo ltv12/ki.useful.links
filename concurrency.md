@@ -17,7 +17,9 @@
 - **<a href="http://blog.takipi.com/5-things-you-didnt-know-about-synchronization-in-java-and-scala/"> 5 важных вещей о синхронизации </a>
 - **<a href="https://habrahabr.ru/company/golovachcourses/blog/215275/"> Набор ссылок на разные курсы.</a>**
 - **<a href="https://habrahabr.ru/post/133981/"> JMM. В кратце и примерах </a> **
-- **<a href="https://habrahabr.ru/company/golovachcourses/blog/221133/">JMM. JSR-133 FAQ </a> **
+- **<a href="https://habrahabr.ru/company/golovachcourses/blog/221133/">JMM. JSR-- **
+- <a href="http://www.jconcurrent.com/">Отличный справочник по основным примитивам </a> **
+ FAQ </a> **
  
 
 #### Блоги
