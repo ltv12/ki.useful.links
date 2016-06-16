@@ -34,7 +34,7 @@
 - **<a href="https://www.topcoder.com">TopCoder</a>**
 - **<a href="http://codeforces.com">CodeForces</a>**
 - **<a href="http://www.cs.usfca.edu/~galles/visualization/">Шпаргалка по Алгоритмам</a>**
-
+- **<a href="https://www.hackerrank.com/">Hackerrank </a>**
 
 ### Git
 - **<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=workspace">Справочник в графическом виде</a>**
