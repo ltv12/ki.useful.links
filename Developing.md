@@ -35,7 +35,7 @@
 - **<a href="http://codeforces.com">CodeForces</a>**
 - **<a href="http://www.cs.usfca.edu/~galles/visualization/">Шпаргалка по Алгоритмам</a>**
 - **<a href="https://www.hackerrank.com/">Hackerrank </a>**
-
+- **<a href="https://codility.com">Codility</a>**
 ### Git
 - **<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=workspace">Справочник в графическом виде</a>**
 - **<a href="https://www.prolinux.org/post/korotkii-spravochnik-po-git-komandam/">Список основных команд (с пояснениями)</a>**
