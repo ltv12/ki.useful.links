@@ -18,9 +18,9 @@
 - **<a href="https://habrahabr.ru/company/golovachcourses/blog/215275/"> Набор ссылок на разные курсы.</a>**
 - **<a href="https://habrahabr.ru/post/133981/"> JMM. В кратце и примерах </a> **
 - **<a href="https://habrahabr.ru/company/golovachcourses/blog/221133/">JMM. JSR-- **
-- <a href="http://www.jconcurrent.com/">Отличный справочник по основным примитивам </a> **
- FAQ </a> **
- 
+- **<a href="http://www.jconcurrent.com/">Отличный справочник по основным примитивам </a> **
+- **<a href="http://tutorials.jenkov.com/java-concurrency/volatile.html"> Volatile example</a> 
+  - **<a href="http://www.cs.umd.edu/~pugh/java/memoryModel/jsr-133-faq.html"> Volatile how works</a> 
 
 #### Блоги
 - **<a href="http://dev.cheremin.info/"> Блог Черемина (в основном по многотопочности).</a>**
