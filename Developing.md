@@ -41,3 +41,5 @@
 ### Git
 - **<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=workspace">Справочник в графическом виде</a>**
 - **<a href="https://www.prolinux.org/post/korotkii-spravochnik-po-git-komandam/">Список основных команд (с пояснениями)</a>**
+### Managment
+- **<a href="http://www.mikheenkov.ru/project-management-education/">Set of links </a>**
